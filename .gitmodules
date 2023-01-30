@@ -1,0 +1,9 @@
+[submodule "public/atc"]
+	path = public/atc
+	url = https://github.com/nodi-andy/atc
+[submodule "public/pong"]
+	path = public/pong
+	url = https://github.com/nodi-andy/pong
+[submodule "public/browser-factory"]
+	path = public/browser-factory
+	url = https://github.com/nodi-andy/browser-factory
