@@ -7,3 +7,6 @@
 [submodule "public/browser-factory"]
 	path = public/browser-factory
 	url = https://github.com/nodi-andy/browser-factory
+[submodule "public/beat_the_ape"]
+	path = public/beat_the_ape
+	url = https://github.com/nodi-andy/beat_the_ape
